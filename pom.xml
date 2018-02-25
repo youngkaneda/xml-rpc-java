@@ -31,6 +31,7 @@
             <artifactId>commons-httpclient</artifactId>
             <version>3.1</version>
         </dependency>
+<<<<<<< HEAD
         <!-- https://mvnrepository.com/artifact/xmlrpc-helma/xmlrpc-helma -->
         <dependency>
             <groupId>xmlrpc-helma</groupId>
@@ -42,5 +43,7 @@
             <artifactId>xerces</artifactId> 
             <version>1.4.0</version> 
         </dependency>
+=======
+>>>>>>> a354f2265c845b661a33d7ccb50fb104586a2db6
     </dependencies>
 </project>
