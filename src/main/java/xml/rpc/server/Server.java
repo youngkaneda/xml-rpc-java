@@ -30,7 +30,6 @@ public class Server
         config.setContentLengthOptional(false);
         try {
             server.start();
-              server.start();
         } catch (IOException ex) {
             ex.printStackTrace();
         }
